@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Saaketh0/static/css/main.f855e6bc.css",
+    "main.js": "/Saaketh0/static/js/main.0a3bab70.js",
+    "static/js/592.7f72a991.chunk.js": "/Saaketh0/static/js/592.7f72a991.chunk.js",
+    "static/media/logo.svg": "/Saaketh0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Saaketh0/index.html",
+    "main.f855e6bc.css.map": "/Saaketh0/static/css/main.f855e6bc.css.map",
+    "main.0a3bab70.js.map": "/Saaketh0/static/js/main.0a3bab70.js.map",
+    "592.7f72a991.chunk.js.map": "/Saaketh0/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0a3bab70.js"
+  ]
+}
